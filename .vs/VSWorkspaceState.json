@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\icons",
+    "\\components",
+    "\\constants",
+    "\\functions",
+    "\\functions\\apiCalls",
+    "\\screens"
+  ],
+  "SelectedNode": "\\screens\\SavedCompaniesScreen.js",
+  "PreviewInSolutionExplorer": false
+}
